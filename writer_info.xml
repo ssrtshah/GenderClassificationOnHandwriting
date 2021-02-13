@@ -1044,7 +1044,7 @@
 <WrittenLanguage>French</WrittenLanguage>
 <WrittenLanguage>German</WrittenLanguage>
 </Writer>
-<Writer name="10220 h" DayOfBirth="1979-03-26" EducationalDegree="Matur" Gender="Male" NativeCountry="Switzerland" NativeLanguage="German" OtherLanguage="French" Profession="Student" Science="Computer Science" WritingType="Right-handed" WrittenLanguage="English"/>
+<Writer name="10220" DayOfBirth="1979-03-26" EducationalDegree="Matur" Gender="Male" NativeCountry="Switzerland" NativeLanguage="German" OtherLanguage="French" Profession="Student" Science="Computer Science" WritingType="Right-handed" WrittenLanguage="English"/>
 <Writer name="10221" DayOfBirth="1983-03-26" EducationalDegree="Matur" Gender="Female" NativeCountry="j" NativeLanguage="j" Profession="Student" Science="Education" WritingType="Left-handed">
 <WrittenLanguage>German</WrittenLanguage>
 <WrittenLanguage>French</WrittenLanguage>
